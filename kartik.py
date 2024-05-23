@@ -1,6 +1,6 @@
 print("Hello Kartik")
 
-print("Hello Varma")
+print("Hello b")
 
 print("King Kartik Varma is Curious")
 
